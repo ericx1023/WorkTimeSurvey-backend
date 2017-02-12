@@ -21,7 +21,7 @@
     "body-parser": "^1.15.1",
     "cors": "^2.7.1",
     "debug": "^2.2.0",
-    "express": "^4.13.4",
+    "express": "^5.0.0-alpha.2",
     "express-mongo-db": "^2.0.3",
     "lodash": "^4.13.1",
     "mongodb": "~2.1.18",
